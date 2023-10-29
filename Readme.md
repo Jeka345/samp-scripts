@@ -30,4 +30,4 @@
    [git-repo-url]: <https://github.com/Jeka345/samp-scripts.git>
    [Evgeniy Zolotov]: <https://vk.com/liveevg>
    [notepadplus]: <https://notepad-plus-plus.org/downloads/>
-   [takescar]: <https://github.com/Jeka345/samp-scripts/takescar.zip>
+   [takescar]: <https://github.com/Jeka345/samp-scripts/blob/main/takescar.zip>
