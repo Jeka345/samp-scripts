@@ -13,7 +13,7 @@
 
 ## Скрипты
 
-- Хелпер для автоугонщика >> [Скачать]([takescar])
+- Хелпер для автоугонщика >> [Скачать помощника автоугонщика]
 
 ##### Автор [Evgeniy Zolotov]
 
@@ -30,4 +30,4 @@
    [git-repo-url]: <https://github.com/Jeka345/samp-scripts.git>
    [Evgeniy Zolotov]: <https://vk.com/liveevg>
    [notepadplus]: <https://notepad-plus-plus.org/downloads/>
-   [takescar]: <https://github.com/Jeka345/samp-scripts/blob/main/takescar.zip>
+   [Скачать помощника автоугонщика]: <https://github.com/Jeka345/samp-scripts/blob/main/takescar.zip>
